@@ -1,7 +1,7 @@
 # Emojify!
 This project is a part of Coursera's course: Sequence Models.
 
-(I have already included in the coursera_sequence_models repo, but I loved this project so much that I wanted to include it in a seperate ripo)
+(I have already included in the coursera_sequence_models repo, but I loved this project so much that I wanted to include it in a seperate repo)
 
 In this assignment, I used word vector representations to build two versions of an Emojifier:
 
